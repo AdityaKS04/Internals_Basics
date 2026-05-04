@@ -1,0 +1,7 @@
+{
+    "registered_model_name": "speedcargo-shipping-days-predictor",
+    "version": 1,
+    "run_id": "ed0114be00ee4dd88a837a73160878ce",
+    "source_metric": "rmse",
+    "source_metric_value": 0.8141382575459778
+}

@@ -1,0 +1,15 @@
+{
+    "service_endpoint": "/health",
+    "predict_endpoint": "/estimate",
+    "health_response": {
+        "status": "operational",
+        "service": "SpeedCargo API"
+    },
+    "test_input": {
+        "weight_kg": 33.0,
+        "distance_km": 280.7,
+        "is_express": 1,
+        "warehouse_load": 2
+    },
+    "prediction": 6.787200000000001
+}

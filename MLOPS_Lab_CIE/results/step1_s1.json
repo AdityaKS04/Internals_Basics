@@ -1,0 +1,18 @@
+{
+    "experiment_name": "speedcargo-shipping-days",
+    "models": [
+        {
+            "name": "LinearRegression",
+            "mae": 0.6664109904488634,
+            "rmse": 0.8920971938340481
+        },
+        {
+            "name": "RandomForest",
+            "mae": 0.7250640000000007,
+            "rmse": 0.8141382575459778
+        }
+    ],
+    "best_model": "RandomForest",
+    "best_metric_name": "rmse",
+    "best_metric_value": 0.8141382575459778
+}
